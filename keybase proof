@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am veronicateklai on github.
+  * I am vteklai (https://keybase.io/vteklai) on keybase.
+  * I have a public key ASBLhOfmwRA5LgjWfn4oaBXtw81zX471fgemgxITCXSOvQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204b84e7e6c110392e08d67e7e286815edc3cd735f8ef57e07a683121309748ebd0a",
+      "host": "keybase.io",
+      "kid": "01204b84e7e6c110392e08d67e7e286815edc3cd735f8ef57e07a683121309748ebd0a",
+      "uid": "5c128e45e2134442d196cd2d6d28eb19",
+      "username": "vteklai"
+    },
+    "merkle_root": {
+      "ctime": 1632840202,
+      "hash": "c413a84e1dca43e06338ed2921092bbd7e90a5ce3296212f29861f87cfb3d0e0fa6fdea262544058125e2b68ce0e9f1b9d6367d831cf4fbe03f2f7e3392d90e4",
+      "hash_meta": "acd7d0c04ebfae2e33b41157c9dacdd61c0cc2e43118905a4d88b11796250fc7",
+      "seqno": 20861148
+    },
+    "service": {
+      "entropy": "tkSWO5KJ6m+J1SlGx4LB6o8j",
+      "name": "github",
+      "username": "veronicateklai"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.0"
+  },
+  "ctime": 1632840237,
+  "expire_in": 504576000,
+  "prev": "f7e7146fbba065e2cfd28513ada9ebcdcab0b157bf52502b079c6a775c7dec13",
+  "seqno": 8,
+  "tag": "signature"
+}
+```
+
+with the key [ASBLhOfmwRA5LgjWfn4oaBXtw81zX471fgemgxITCXSOvQo](https://keybase.io/vteklai), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgS4Tn5sEQOS4I1n5+KGgV7cPNc1+O9X4HpoMSEwl0jr0Kp3BheWxvYWTESpcCCMQg9+cUb7ugZeLP0oUTranrzcqwsVe/UlArB5xqd1x97BPEIPNbAtnGhIJAFaBGn3nTe6Ih0S/58E+8KT7PWeNIVXSLAgHCo3NpZ8RAra5gaMlyirOmMQ7DqueaRGkrux8XWR2yqNGP+BCYTMnwzpTv0PA0BIlKLoEp/tsyW7b293kb02Hy5BlKFLA1CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGqDPiwUkm8DNPA3dE00J3IRaoCvgPTOaoS+gi1pTWsEo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/vteklai
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id vteklai
+```
